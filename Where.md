@@ -1,3 +1,5 @@
+# Programming Haskell
+
 Haskell este utilizat în producție în industrii și aplicații care necesită un grad ridicat de siguranță, fiabilitate și performanță. Deși nu este la fel de răspândit ca limbaje precum Python sau Java, Haskell este preferat în domenii specifice datorită naturii sale funcționale, sistemului de tip static puternic și abilității de a verifica corectitudinea codului la momentul compilării.
 
 ### Domenii principale în care Haskell este folosit:
